@@ -141,7 +141,7 @@ nav {
 }
 
 .reasons {
-    padding: 71px 0 35px 0;
+    padding: 71px 0 65px 0;
 }
 
 .lable {
@@ -171,6 +171,7 @@ nav {
     justify-content: center;
     align-items: center;
     margin-top: 35px;
+    margin-right: 80px;
 }
 
 .reasons .reasons_block .reasons_circle {
